@@ -1,6 +1,5 @@
 INSERT INTO Movies (title, year, genre, score, actor_id, director_id, writer_id) VALUES
 ('2001: A Space Odyssey', 1968, 'Science Fiction',10, 1,1,1),
-('2001: A Space Odyssey', 1968, 'Science Fiction', 10, 1,1,1),
 ('Star Wars: A New Hope', 1977, 'Science Fiction', 7, 2,2,2),
 ('To Kill A Mockingbird', 1962, 'Drama', 10, 3,3,3),
 ('Titanic', 1997, 'Romance', 5, 4,4,4),
